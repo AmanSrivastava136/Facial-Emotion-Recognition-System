@@ -51,7 +51,7 @@ python realtime.py
 ---
 
 ##  Output
-(Add your output screenshot here later)
+
 
 ---
 
