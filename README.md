@@ -56,7 +56,7 @@ python realtime.py
 ![Output](output.png)
 
 ### 🔹 Accuracy Graph
-![Accuracy](accuracy.png)
+![Accuracy](Accuracy.png)
 
 ### 🔹 Confusion Matrix
 ![Confusion](confusion.png)
