@@ -1,6 +1,6 @@
 pip install opencv-python
 pip install tensorflow
-model = load_model("FER_96x96_Model.h5")
+model = load_model("FER_96x96_Model(1).h5")
 
 
 
