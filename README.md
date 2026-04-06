@@ -4,13 +4,13 @@
 This project is a Deep Learning-based Facial Emotion Recognition system that detects human emotions in real-time using a webcam.
 
 The system classifies 7 emotions:
-- Angry 😠
-- Disgust 🤢
-- Fear 😨
-- Happy 😄
-- Neutral 😐
-- Sad 😢
-- Surprise 😲
+- Angry 
+- Disgust 
+- Fear 
+- Happy 
+- Neutral 
+- Sad 
+- Surprise 
 
 ---
 
