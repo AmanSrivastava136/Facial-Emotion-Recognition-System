@@ -50,7 +50,16 @@ python realtime.py
 
 ---
 
-##  Output
+## 📸 Output
+
+### 🔹 Real-Time Detection
+![Output](output.png)
+
+### 🔹 Accuracy Graph
+![Accuracy](accuracy.png)
+
+### 🔹 Confusion Matrix
+![Confusion](confusion.png)
 
 
 ---
