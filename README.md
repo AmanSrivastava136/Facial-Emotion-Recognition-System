@@ -1,6 +1,6 @@
-# 🚀 Facial Emotion Recognition System
+#  Facial Emotion Recognition System
 
-## 📌 Overview
+##  Overview
 This project is a Deep Learning-based Facial Emotion Recognition system that detects human emotions in real-time using a webcam.
 
 The system classifies 7 emotions:
@@ -14,7 +14,7 @@ The system classifies 7 emotions:
 
 ---
 
-## ⚙️ Technologies Used
+##  Technologies Used
 - Python
 - TensorFlow / Keras
 - OpenCV
@@ -23,7 +23,7 @@ The system classifies 7 emotions:
 
 ---
 
-## 🧠 Model Details
+##  Model Details
 - CNN (Convolutional Neural Network)
 - Input: 96x96 grayscale images
 - Dataset: FER-2013 (balanced → FER-4000)
@@ -33,7 +33,7 @@ The system classifies 7 emotions:
 
 ---
 
-## 🔥 Features
+##  Features
 ✔ Real-time face detection (Haar Cascade)  
 ✔ Emotion prediction with confidence score  
 ✔ FPS display  
@@ -41,7 +41,7 @@ The system classifies 7 emotions:
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 ### Step 1: Install dependencies
 pip install -r requirements.txt
 
@@ -50,15 +50,15 @@ python realtime.py
 
 ---
 
-## 📸 Output
+##  Output
 (Add your output screenshot here later)
 
 ---
 
-## ⚠️ Note
+##  Note
 The trained model (.h5 file) is not uploaded due to GitHub file size limitations.
 
 ---
 
-## 👨‍💻 Author
+##  Author
 Aman Srivastava
